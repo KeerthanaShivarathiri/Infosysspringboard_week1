@@ -1,2 +1,1 @@
-# Infosysspringboard_week1
-Infosys Springboard week1 Assignment
+# AI-Enhanced Customer Support Ticket Rsolution and Proactive Issue Prevention System
